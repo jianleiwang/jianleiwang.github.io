@@ -47,7 +47,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 <!-- paper 1 -->
 **Interactive Design of Developable Surfaces by Patch-based Learning**
 
-Chaoyun Wang, **Jianlei Wang**, [Chengcheng Tang](https://scholar.google.com/citations?hl=zh-CN&user=WbG27wQAAAAJ), Nanning Zheng, [Caigui Jiang](https://caiguijiang.github.io/)
+[Chaoyun Wang](https://chaoyunwang.github.io/), **Jianlei Wang**, [Chengcheng Tang](https://scholar.google.com/citations?hl=zh-CN&user=WbG27wQAAAAJ), Nanning Zheng, [Caigui Jiang](https://caiguijiang.github.io/)
 
 *Under Review*
 
