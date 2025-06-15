@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+{% for link in site.publications.publications.main}
+
 <span class='anchor' id='about-me'></span>
 
 I am a first-year Ph.D. student at the Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University, supervised by <a href='https://caiguijiang.github.io/'>Prof. Caigui Jiang</a>. I received my bachelor's degree from the College of Information Engineering, Wuhan University of Technology in 2018. My research interests are computer graphics, geometry processing and computer aided design. I am always open to discussions and collaborations.
