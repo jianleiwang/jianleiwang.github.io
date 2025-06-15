@@ -38,7 +38,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='publications/SPM2025/img.png' alt="sym" style="width: 400px !important; height: 220px !important"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='publications/CAD2025/img.png' alt="sym" style="width: 400px !important; height: 220px !important"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Interactive Design of Developable Surfaces by Patch-based Learning**
