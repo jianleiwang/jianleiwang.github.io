@@ -25,7 +25,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPM 2025</div><img src='images/500x300.png' alt="sym" style="width: 200px !important; height: 150px !important"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPM 2025</div><img src='images/500x300.png' alt="sym" style="width: 300px !important; height: 180px !important"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Modular Shape Modeling with Controllable Discrete Equivalence Class Distribution**
