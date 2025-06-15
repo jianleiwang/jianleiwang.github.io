@@ -34,8 +34,7 @@ Modular Shape Modeling with Controllable Discrete Equivalence Class Distribution
 
 *__Conditionally Accept to SPM 2025__*
 
-[**Paper**](https://jianleiwang.github.io) [**Bibtex**](https://jianleiwang.github.io)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**\[Paper\]**](https://jianleiwang.github.io) [**Bibtex**](https://jianleiwang.github.io)
 </div>
 </div>
 
