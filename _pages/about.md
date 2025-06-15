@@ -32,7 +32,7 @@ Modular Shape Modeling with Controllable Discrete Equivalence Class Distribution
 
 **Jianlei Wang**, Zeyang Wu, Yongqi Tian, [Caigui Jiang](https://caiguijiang.github.io/)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Conditionally Accept to SPM 2025
 
 [**Paper**](https://jianleiwang.github.io) [**Bibtex**](https://jianleiwang.github.io)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
