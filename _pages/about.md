@@ -27,6 +27,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 
 # 📝 Publications 
 
+// paper 2: 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPM 2025</div><img src='publications/SPM2025/img.png' alt="sym" style="width: 400px !important; height: 220px !important"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,6 +44,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='publications/CAD2025/img.png' alt="sym" style="width: 400px !important; height: 220px !important"></div></div>
 <div class='paper-box-text' markdown="1">
 
+// paper 1: 
 **Interactive Design of Developable Surfaces by Patch-based Learning**
 
 Chaoyun Wang, **Jianlei Wang**, [Chengcheng Tang](https://scholar.google.com/citations?hl=zh-CN&user=WbG27wQAAAAJ), Nanning Zheng, [Caigui Jiang](https://caiguijiang.github.io/)
