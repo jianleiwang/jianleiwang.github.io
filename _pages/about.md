@@ -45,7 +45,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 
 Chaoyun Wang, **Jianlei Wang**, [Chengcheng Tang](https://scholar.google.com/citations?hl=zh-CN&user=WbG27wQAAAAJ), Nanning Zheng, [Caigui Jiang](https://caiguijiang.github.io/)
 
-Under Review
+*Under Review*
 
 [**\[Paper\]**](https://jianleiwang.github.io) [**\[Bibtex\]**](https://jianleiwang.github.io)
 </div>
