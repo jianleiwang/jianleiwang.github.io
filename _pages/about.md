@@ -25,14 +25,14 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPM 2025</div><img src='images/500x300.png' alt="sym" style="width: 400px; height: 250px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPM 2025</div><img src='images/500x300.png' alt="sym" style="width: 450px; height: 250px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Modular Shape Modeling with Controllable Discrete Equivalence Class Distribution**
 
 **Jianlei Wang**, Zeyang Wu, Yongqi Tian, [Caigui Jiang](https://caiguijiang.github.io/)
 
-*__Conditionally Accept to SPM 2025__ (CCF B)*
+*__Conditionally Accept to SPM 2025__ * **(CCF B)**
 
 [**\[Paper\]**](https://jianleiwang.github.io) [**\[Bibtex\]**](https://jianleiwang.github.io)
 </div>
