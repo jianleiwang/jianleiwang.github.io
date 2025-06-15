@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student at the Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University, supervised by Prof. Caigui Jiang. I received my bachelor's degree from the College of Information Engineering, Wuhan University of Technology in 2018. My research interests are computer graphics, geometry processing and computer aided design. I am always open to discussions and collaborations.
+I am a first-year Ph.D. student at the Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University, supervised by <a href='https://caiguijiang.github.io/'>Prof. Caigui Jiang</a>. I received my bachelor's degree from the College of Information Engineering, Wuhan University of Technology in 2018. My research interests are computer graphics, geometry processing and computer aided design. I am always open to discussions and collaborations.
 
 # My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
