@@ -43,3 +43,7 @@ Modular Shape Modeling with Controllable Discrete Equivalence Class Distribution
 - **Sep.2024 - Present** Ph.D. Student, Xi'an Jiaotong University.
 - **Sep.2022 - Sep.2024** Master Student, Xi'an Jiaotong University.
 - **Sep.2018 - Jun.2022** Undergraduate Student, Wuhan University of Technology
+- **<span style="font-family: Georgia;">Sep.2024 - Present</span>** Ph.D. Student, Xi'an Jiaotong University.
+- **<span style="font-family: Georgia;">Sep.2022 - Sep.2024</span>** Master Student, Xi'an Jiaotong University.
+- **<span style="font-family: Georgia;">Sep.2018 - Jun.2022</span>** Undergraduate Student, Wuhan University of Technology.
+
