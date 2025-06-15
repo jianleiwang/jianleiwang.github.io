@@ -27,7 +27,7 @@ author:
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=_PS0i0AAAAAJ"
   email            : "jianlay.w@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : https://github.com/jianleiwang/
   google_plus      :
   keybase          :
   instagram        :
