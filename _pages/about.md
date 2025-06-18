@@ -28,7 +28,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 # 📝 Publications 
 
 <!-- paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPM 2025</div><img src='publications/SPM2025/img.png' alt="sym" style="width: 400px !important; height: 220px !important"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPM 2025</div><img src='publications/SPM2025/img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Modular Shape Modeling with Controllable Discrete Equivalence Class Distribution**
@@ -41,7 +41,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='publications/CAD2025/img.png' alt="sym" style="width: 400px !important; height: 220px !important"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='publications/CAD2025/img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- paper 1 -->
