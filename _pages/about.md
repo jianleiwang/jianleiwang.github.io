@@ -28,7 +28,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 # 📝 Publications 
 
 <!--  paper 2  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPM 2025</div><img src='publications/SPM2025/img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPM 2025</div><img src='publications/SPM2025/img.png' alt="sym" width="100% !improtant"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Modular Shape Modeling with Controllable Discrete Equivalence Class Distribution**
@@ -41,7 +41,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='publications/CAD2025/img.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='publications/CAD2025/img.png' alt="sym" width="100% !improtant"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!--  paper 1  -->
@@ -51,7 +51,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 
 *Under Review*
 
-[**\[Paper\]**](https://jianleiwang.github.io) [**\[Bibtex\]**](https://jianleiwang.github.io) [**\[Code\]**](https://jianleiwang.github.io) 
+[**\[Paper\]**](https://jianleiwang.github.io) [**\[Bibtex\]**](https://jianleiwang.github.io) **\[Code\]**
 </div>
 </div>
 
