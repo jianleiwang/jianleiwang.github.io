@@ -33,7 +33,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 
 **Jianlei Wang**, Zeyang Wu, Yongqi Tian, [Caigui Jiang](https://caiguijiang.github.io/)
 
-*__Conditionally Accept to SPM 2025__* **(CCF B)**
+*__Computer-Aided Design （Proc. SPM 2025）__* **(CCF B)**
 
 [**\[Paper\]**](https://jianleiwang.github.io) [**\[Bibtex\]**](https://jianleiwang.github.io)
 </div>
