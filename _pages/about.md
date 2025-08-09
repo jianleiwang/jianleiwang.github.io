@@ -35,7 +35,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 
 *__Computer-Aided Design （Proc. SPM 2025）__* **(CCF B)**
 
-[**\[Paper\]**](https://jianleiwang.github.io) [**\[Bibtex\]**](https://jianleiwang.github.io)
+[**\[Paper\]**](https://doi.org/10.1016/j.cad.2025.103935)
 </div>
 </div>
 
