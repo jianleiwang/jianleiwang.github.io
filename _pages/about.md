@@ -26,7 +26,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='publications/CAD2025/img.png' alt="sym" width="100% !improtant"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD 2025</div><img src='publications/CAD2025/img.png' alt="sym" width="100% !improtant"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!--  paper 2  -->
