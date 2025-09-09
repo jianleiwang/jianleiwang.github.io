@@ -34,7 +34,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 
 [Chaoyun Wang](https://chaoyunwang.github.io/), **Jianlei Wang**, [Chengcheng Tang](https://scholar.google.com/citations?hl=zh-CN&user=WbG27wQAAAAJ), Nanning Zheng, [Caigui Jiang](https://caiguijiang.github.io/)
 
-*__Computer-Aided Design__* **(CCF B)**
+*__Computer-Aided Design 2025__* **(CCF B)**
 
 [**\[Paper\]**](https://jianleiwang.github.io) [**\[Bibtex\]**](https://jianleiwang.github.io) **\[Code\]**
 </div>
@@ -48,7 +48,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 
 **Jianlei Wang**, Zeyang Wu, Yongqi Tian, [Caigui Jiang](https://caiguijiang.github.io/)
 
-*__Computer-Aided Design （Proc. SPM 2025）__* **(CCF B)**
+*__Computer-Aided Design 2025 （Proc. SPM 2025）__* **(CCF B)**
 
 [**\[Paper\]**](https://doi.org/10.1016/j.cad.2025.103935)
 </div>
