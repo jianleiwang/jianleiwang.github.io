@@ -25,7 +25,22 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='publications/CAD2025/img.png' alt="sym" width="100% !improtant"></div></div>
+<div class='paper-box-text' markdown="1">
+
 <!--  paper 2  -->
+**Interactive Design of Developable Surfaces by Patch-based Learning**
+
+[Chaoyun Wang](https://chaoyunwang.github.io/), **Jianlei Wang**, [Chengcheng Tang](https://scholar.google.com/citations?hl=zh-CN&user=WbG27wQAAAAJ), Nanning Zheng, [Caigui Jiang](https://caiguijiang.github.io/)
+
+*__Computer-Aided Design__* **(CCF B)**
+
+[**\[Paper\]**](https://jianleiwang.github.io) [**\[Bibtex\]**](https://jianleiwang.github.io) **\[Code\]**
+</div>
+</div>
+
+<!--  paper 1  -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SPM 2025</div><img src='publications/SPM2025/img.png' alt="sym" width="100% !improtant"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -39,19 +54,6 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='publications/CAD2025/img.png' alt="sym" width="100% !improtant"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<!--  paper 1  -->
-**Interactive Design of Developable Surfaces by Patch-based Learning**
-
-[Chaoyun Wang](https://chaoyunwang.github.io/), **Jianlei Wang**, [Chengcheng Tang](https://scholar.google.com/citations?hl=zh-CN&user=WbG27wQAAAAJ), Nanning Zheng, [Caigui Jiang](https://caiguijiang.github.io/)
-
-*Under Review*
-
-[**\[Paper\]**](https://jianleiwang.github.io) [**\[Bibtex\]**](https://jianleiwang.github.io) **\[Code\]**
-</div>
-</div>
 
 # 📖 Educations
 - **Sep.2024 - Present** Ph.D. Student, Xi'an Jiaotong University.
