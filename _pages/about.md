@@ -26,7 +26,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 # 📝 Publications 
 
 <!--  paper 2  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCADCG</div><img src='publications/CAD&CG2025/img.png' alt="sym" width="100% !improtant"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD&CG</div><img src='publications/CAD&CG2025/img.png' alt="sym" width="100% !improtant"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Survey of Architectural Geometry for Design and Fabrication (in Chinese)**
