@@ -25,7 +25,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 
 # 📝 Publications 
 
-<!--  paper 2  -->
+<!--  paper 3  -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD&CG</div><img src='publications/CAD&CG2025/img.png' alt="sym" width="100% !improtant"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -35,7 +35,7 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 
 *__Journal of Computer-Aided Design & Computer Graphics__* **(CCF A)**
 
-[**\[Paper\]**](https://doi.org/10.1016/j.cad.2025.103970)
+[**\[Paper\]**](https://jianleiwang.github.io/)
 </div>
 </div>
 
