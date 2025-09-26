@@ -25,11 +25,24 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 
 # 📝 Publications 
 
+<!--  paper 2  -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCADCG</div><img src='publications/CAD2025/img.png' alt="sym" width="100% !improtant"></div></div>
+<div class='paper-box-text' markdown="1">
 
+**A Survey of Architectural Geometry for Design and Fabrication**
+
+**Jianlei Wang**, Zifeng Yu, [Hui Wang](https://www.huiwang.me/), [Caigui Jiang](https://caiguijiang.github.io/)
+
+*__Journal of Computer-Aided Design & Computer Graphics__* **(CCF A)**
+
+[**\[Paper\]**](https://doi.org/10.1016/j.cad.2025.103970)
+</div>
+</div>
+
+<!--  paper 2  -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD 2025</div><img src='publications/CAD2025/img.png' alt="sym" width="100% !improtant"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!--  paper 2  -->
 **Interactive Design of Developable Surfaces by Patch-based Learning**
 
 [Chaoyun Wang](https://chaoyunwang.github.io/), **Jianlei Wang**, [Chengcheng Tang](https://scholar.google.com/citations?hl=zh-CN&user=WbG27wQAAAAJ), Nanning Zheng, [Caigui Jiang](https://caiguijiang.github.io/)
