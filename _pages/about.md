@@ -26,14 +26,14 @@ I am a first-year Ph.D. student at the Institute of Artificial Intelligence and 
 # 📝 Publications 
 
 <!--  paper 3  -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD&CG</div><img src='publications/JCAD&CG2025/img.png' alt="sym" width="100% !improtant"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD&CG 2025</div><img src='publications/JCAD&CG2025/img.png' alt="sym" width="100% !improtant"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Survey of Architectural Geometry for Design and Fabrication (in Chinese)**
 
 **Jianlei Wang**, Zifeng Yu, [Hui Wang](https://www.huiwang.me/), [Caigui Jiang](https://caiguijiang.github.io/)
 
-*__Journal of Computer-Aided Design & Computer Graphics__* **(CCF A)**
+*__Journal of Computer-Aided Design & Computer Graphics 2025__* **(CCF A)**
 
 [**\[Paper\]**](https://jianleiwang.github.io/)
 </div>
